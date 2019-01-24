@@ -7,9 +7,9 @@ FactoryBotCaching is a gem which implements a caching layer for FactoryBot with 
 Factory Caching enables you to leverage the flexibility of factories with some of the performance benefits
 of fixtures.
 
-## FactoryBot Support
+## FactoryGirl Support
 
-* `FactoryBotCaching` `~> 1.0.1` currently only offers built-in support for the `FactoryBot` gem/namespace.
+* `FactoryBotCaching` `~> 2.0.0` currently only offers built-in support for the `FactoryBot` gem/namespace.
 * Support for the older `FactoryGirl` namespace is available in version 1.0.0
 
 ## Installation
